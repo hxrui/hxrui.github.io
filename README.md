@@ -1,1 +1,1 @@
-1. **[Java 基础知识](doc/test.md)**
+1. **[Java 基础知识](docs/test.md)**
